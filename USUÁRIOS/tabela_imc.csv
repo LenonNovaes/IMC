@@ -1,0 +1,5 @@
+id_registro;faixa_imc;classificacao;sugestoes_atividades;sugestoes_alimentares
+1;Abaixo de 18.5 kg/m2;Abaixo do peso;Aumentar a ingestao calorica, atividades de fortalecimento muscular, acompanhamento nutricional.;Priorizar alimentos ricos em proteinas, carboidratos complexos e gorduras saudaveis.
+2;18.5 - 24.9 kg/m2;Peso normal;Manter uma dieta equilibrada e praticar atividades fisicas regulares.;Variedade de alimentos, priorizando frutas, legumes, graos integrais, carnes magras e laticinios desnatados.
+3;25 - 29.9 kg/m2;Sobrepeso;Aumentar a pratica de atividades fisicas aerobicas e de forca, reduzir o consumo de alimentos processados e bebidas acucaradas, buscar orientacao nutricional.;Priorizar alimentos ricos em fibras, reduzir o consumo de alimentos ultraprocessados e aumentar o consumo de frutas, legumes e verduras.
+4;30 kg/m2 ou mais;Obesidade;Buscar acompanhamento medico e nutricional, praticar atividades fisicas regulares, adotar habitos alimentares saudaveis de forma gradual.;Reduzir o consumo de alimentos ricos em gordura saturada e acucar, aumentar o consumo de frutas, legumes, graos integrais e agua.
